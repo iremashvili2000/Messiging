@@ -6,7 +6,7 @@ import javax.swing.*;
 import javax.swing.event.AncestorListener;
 
 public class Server extends JFrame {
-	// bucky
+	
 	private JTextField userText;
 	private JTextArea chatWindow;
 	private ObjectOutputStream output;
